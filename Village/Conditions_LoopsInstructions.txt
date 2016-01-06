@@ -1,0 +1,15 @@
+Problem
+
+Given: Two positive integers aa and bb (a<b<10000a<b<10000).
+
+Return: The sum of all odd integers from aa through bb, inclusively.
+
+Sample Dataset
+
+100 200
+Sample Output
+
+7500
+Hintclick to collapse
+
+You can use a % 2 == 1 to test if a is odd.
